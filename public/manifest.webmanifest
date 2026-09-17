@@ -1,0 +1,17 @@
+{
+  "name": "S-Tiers Examination",
+  "short_name": "S-Tiers",
+  "description": "Practice certification exams across software, data, architecture, and IT business.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#05030A",
+  "theme_color": "#05030A",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
